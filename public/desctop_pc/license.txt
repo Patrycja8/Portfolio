@@ -1,0 +1,11 @@
+Model Information:
+* title:	Falling Game boy
+* source:	https://sketchfab.com/3d-models/falling-game-boy-7dbeed5b1dee411eae1dc759f6c09a7c
+* author:	Business boy (https://sketchfab.com/Baboyo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Falling Game boy" (https://sketchfab.com/3d-models/falling-game-boy-7dbeed5b1dee411eae1dc759f6c09a7c) by Business boy (https://sketchfab.com/Baboyo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
